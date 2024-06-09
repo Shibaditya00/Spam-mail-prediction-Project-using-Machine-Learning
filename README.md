@@ -1,1 +1,1 @@
-# Spam-mail-prediction-Project-using-Machine-Learning
+# Spam-mail-prediction-Project-using-Machine-Learning-Algorithm
